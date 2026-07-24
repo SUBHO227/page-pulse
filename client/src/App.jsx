@@ -82,6 +82,22 @@ function App() {
 
         </div>
       )}
+      <footer
+  style={{
+    marginTop: "40px",
+    textAlign: "center",
+    padding: "20px",
+    borderTop: "1px solid #ccc"
+  }}
+>
+  <a
+    href="https://digitalheroesco.com"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Built for Digital Heroes Training Task
+  </a>
+</footer>
 
     </div>
   );
